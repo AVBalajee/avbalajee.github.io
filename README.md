@@ -9,4 +9,4 @@
 
 ![My Alternate Portfolio Website](https://github.com/balajeeav/avbalajee.github.io/blob/master/My-Portfolio-Website.JPG)
 
-Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+.Leave a :star: &nbsp;if you like it!
